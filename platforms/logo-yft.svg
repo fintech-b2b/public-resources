@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_grad_5-2);
+      }
+
+      .cls-2 {
+        fill: url(#_grad_4-2);
+      }
+
+      .cls-3 {
+        fill: url(#_grad_6-2);
+      }
+
+      .cls-4 {
+        fill: url(#_grad_6);
+      }
+
+      .cls-5 {
+        fill: url(#_grad_5);
+      }
+
+      .cls-6 {
+        fill: url(#_grad_4);
+      }
+    </style>
+    <linearGradient id="_grad_4" data-name="grad4" x1="-11597.44" y1="93.89" x2="-11601.77" y2="95.84"
+                    gradientTransform="translate(-11586.45 -78) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".31" stop-color="#4881ef"/>
+      <stop offset=".74" stop-color="#3f28f0"/>
+    </linearGradient>
+    <linearGradient id="_grad_5" data-name="grad5" x1="-11598.62" y1="91.73" x2="-11606.49" y2="87.05"
+                    gradientTransform="translate(-11586.45 -78) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#4881ef"/>
+      <stop offset="1" stop-color="#3f28f0"/>
+    </linearGradient>
+    <linearGradient id="_grad_6" data-name="grad6" x1="-11598.94" y1="86.83" x2="-11607.86" y2="81.69"
+                    gradientTransform="translate(-11586.45 -78) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4881ef"/>
+      <stop offset="1" stop-color="#3f28f0"/>
+    </linearGradient>
+    <linearGradient id="_grad_4-2" data-name="grad4" x1="13.01" y1="93.89" x2="8.68" y2="95.84"
+                    gradientTransform="translate(0 -78)" xlink:href="#_grad_4"/>
+    <linearGradient id="_grad_5-2" data-name="grad5" x1="11.83" y1="91.73" x2="3.96" y2="87.05"
+                    gradientTransform="translate(0 -78)" xlink:href="#_grad_5"/>
+    <linearGradient id="_grad_6-2" data-name="grad6" x1="11.51" y1="86.83" x2="2.59" y2="81.69"
+                    gradientTransform="translate(0 -78)" xlink:href="#_grad_6"/>
+  </defs>
+  <path class="cls-6" d="m15.02,13.16v6.59c0,.26-.14.5-.36.63l-1.65.95v-7.01l2.01-1.16h0Z"/>
+  <path class="cls-5" d="m19.92,8.02l-.51,2.22c-.07.29-.25.54-.5.68l-3.01,1.73-.89.51-2.01,1.16v-1.71c0-.38.2-.73.53-.92l1.48-.85,4.91-2.84h0Z"/>
+  <path class="cls-4" d="m21.15,2.67l-.51,2.22c-.07.29-.25.54-.5.68l-5.12,2.95-2.01,1.16v-1.71c0-.38.2-.73.53-.92l1.48-.85,6.13-3.55h0Z"/>
+  <path class="cls-2" d="m8.98,13.16v6.59c0,.26.14.5.36.63l1.65.95v-7.01l-2.01-1.16h0Z"/>
+  <path class="cls-1" d="m4.08,8.02l.51,2.22c.07.29.25.54.5.68l3.01,1.73.89.51,2.01,1.16v-1.71c0-.38-.2-.73-.53-.92l-1.48-.85-4.91-2.84h0Z"/>
+  <path class="cls-3" d="m2.85,2.67l.51,2.22c.07.29.25.54.51.68l5.12,2.95,2.01,1.16v-1.71c0-.38-.2-.73-.53-.92l-1.48-.85L2.85,2.67h0Z"/>
+</svg>
